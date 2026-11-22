@@ -1,0 +1,502 @@
+[
+ {
+  "file": "01_Plenum_chamber",
+  "name": "Plenum chamber",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "plenum"
+ },
+ {
+  "file": "04_Turbulence_screen_2",
+  "name": "Turbulence screen 2",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "plenum"
+ },
+ {
+  "file": "02_Honeycomb_flow_straightener",
+  "name": "Honeycomb flow straightener",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "plenum"
+ },
+ {
+  "file": "03_Turbulence_screen_1",
+  "name": "Turbulence screen 1",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "plenum"
+ },
+ {
+  "file": "08_Nozzle_block__lower__MOC_contour",
+  "name": "Nozzle block, lower (MOC contour)",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "12_Bolts__plenum_nozzle_joint",
+  "name": "Bolts, plenum-nozzle joint",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "15_Test_section_body",
+  "name": "Test section body",
+  "rgb": [
+   0.18,
+   0.4,
+   0.75
+  ],
+  "group": "test section"
+ },
+ {
+  "file": "05_Plenum_pressure_transducer",
+  "name": "Plenum pressure transducer",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "instrumentation"
+ },
+ {
+  "file": "06_Stagnation_thermocouple_probe",
+  "name": "Stagnation thermocouple probe",
+  "rgb": [
+   0.8,
+   0.62,
+   0.25
+  ],
+  "group": "instrumentation"
+ },
+ {
+  "file": "09_Nozzle_side_plate__right",
+  "name": "Nozzle side plate, right",
+  "rgb": [
+   0.62,
+   0.66,
+   0.72
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "10_Nozzle_side_plate__left",
+  "name": "Nozzle side plate, left",
+  "rgb": [
+   0.62,
+   0.66,
+   0.72
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "07_Nozzle_block__upper__MOC_contour",
+  "name": "Nozzle block, upper (MOC contour)",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "11_Nozzle_inlet_flange",
+  "name": "Nozzle inlet flange",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "13_Nozzle_exit_flange",
+  "name": "Nozzle exit flange",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "nozzle"
+ },
+ {
+  "file": "14_Bolts__nozzle_test_section_joint",
+  "name": "Bolts, nozzle-test section joint",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "18_Window_retainer_screws__right",
+  "name": "Window retainer screws, right",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "24_Test_model__10_deg_cone_cylinder",
+  "name": "Test model, 10 deg cone-cylinder",
+  "rgb": [
+   0.85,
+   0.2,
+   0.15
+  ],
+  "group": "model"
+ },
+ {
+  "file": "17_Window_retainer_ring__right",
+  "name": "Window retainer ring, right",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "test section"
+ },
+ {
+  "file": "23_Bolts__test_section_diffuser_joint",
+  "name": "Bolts, test section-diffuser joint",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "19_Schlieren_window_glass__left",
+  "name": "Schlieren window glass, left",
+  "rgb": [
+   0.62,
+   0.85,
+   0.95
+  ],
+  "group": "test section"
+ },
+ {
+  "file": "31_Plenum_inlet_flange",
+  "name": "Plenum inlet flange",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "16_Schlieren_window_glass__right",
+  "name": "Schlieren window glass, right",
+  "rgb": [
+   0.62,
+   0.85,
+   0.95
+  ],
+  "group": "test section"
+ },
+ {
+  "file": "20_Window_retainer_ring__left",
+  "name": "Window retainer ring, left",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "test section"
+ },
+ {
+  "file": "21_Window_retainer_screws__left",
+  "name": "Window retainer screws, left",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "22_Pressure_tap_fittings__test_section",
+  "name": "Pressure tap fittings, test section",
+  "rgb": [
+   0.8,
+   0.62,
+   0.25
+  ],
+  "group": "instrumentation"
+ },
+ {
+  "file": "25_Model_sting",
+  "name": "Model sting",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "model"
+ },
+ {
+  "file": "26_Diffuser__3_deg_per_wall",
+  "name": "Diffuser (3 deg per wall)",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "diffuser"
+ },
+ {
+  "file": "27_Sting_support_strut",
+  "name": "Sting support strut",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "model"
+ },
+ {
+  "file": "28_Pressure_tap_fittings__diffuser",
+  "name": "Pressure tap fittings, diffuser",
+  "rgb": [
+   0.8,
+   0.62,
+   0.25
+  ],
+  "group": "instrumentation"
+ },
+ {
+  "file": "29_Exhaust_debris_screen",
+  "name": "Exhaust debris screen",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "diffuser"
+ },
+ {
+  "file": "30_Bolts__exhaust_screen",
+  "name": "Bolts, exhaust screen",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "34_Isolation_gate_valve_body",
+  "name": "Isolation gate valve body",
+  "rgb": [
+   0.3,
+   0.42,
+   0.3
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "32_Bolts__plenum_inlet",
+  "name": "Bolts, plenum inlet",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "37_Bolts__valve_spool",
+  "name": "Bolts, valve-spool",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "42_Bolts__spool_regulator",
+  "name": "Bolts, spool-regulator",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "45_Stand_1__plenum",
+  "name": "Stand 1, plenum",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ },
+ {
+  "file": "33_Pipe_spool_1",
+  "name": "Pipe spool 1",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "35_Gate_valve_stem",
+  "name": "Gate valve stem",
+  "rgb": [
+   0.78,
+   0.8,
+   0.83
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "38_Pressure_regulator_body",
+  "name": "Pressure regulator body",
+  "rgb": [
+   0.55,
+   0.57,
+   0.6
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "36_Gate_valve_handwheel",
+  "name": "Gate valve handwheel",
+  "rgb": [
+   0.75,
+   0.12,
+   0.1
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "39_Regulator_dome_loader",
+  "name": "Regulator dome loader",
+  "rgb": [
+   0.95,
+   0.72,
+   0.1
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "44_Supply_riser_from_storage_tanks",
+  "name": "Supply riser from storage tanks",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "40_Dome_pressure_gauge",
+  "name": "Dome pressure gauge",
+  "rgb": [
+   0.9,
+   0.9,
+   0.9
+  ],
+  "group": "instrumentation"
+ },
+ {
+  "file": "41_Bolts__regulator_valve",
+  "name": "Bolts, regulator-valve",
+  "rgb": [
+   0.22,
+   0.22,
+   0.24
+  ],
+  "group": "fasteners"
+ },
+ {
+  "file": "43_Pipe_spool_2_with_elbow",
+  "name": "Pipe spool 2 with elbow",
+  "rgb": [
+   0.5,
+   0.55,
+   0.6
+  ],
+  "group": "supply"
+ },
+ {
+  "file": "46_Stand_2__nozzle",
+  "name": "Stand 2, nozzle",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ },
+ {
+  "file": "47_Stand_3__diffuser",
+  "name": "Stand 3, diffuser",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ },
+ {
+  "file": "48_Stand_4__diffuser_exit",
+  "name": "Stand 4, diffuser exit",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ },
+ {
+  "file": "50_Stand_6__gate_valve",
+  "name": "Stand 6, gate valve",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ },
+ {
+  "file": "49_Stand_5__regulator",
+  "name": "Stand 5, regulator",
+  "rgb": [
+   0.95,
+   0.55,
+   0.1
+  ],
+  "group": "stands"
+ }
+]
