@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mach 2 Blowdown Wind Tunnel
+# Supersonic Wind Tunnel Design, CAD, and CFD
 ### Design, CAD and CFD of a 6 × 6 in supersonic test facility
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
